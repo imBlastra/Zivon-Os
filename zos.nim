@@ -1,1 +1,12 @@
-#Zivon Os
+#Zivon-Os
+echo("////////  //")
+echo("     //  //")
+echo("    //  //")
+echo("   //  //")
+echo("////////")
+echo("Zivon Os")
+echo("Name:~")
+let usernm  = stdin.readLine()
+echo(usernm,"@zos:~")
+let cmd = stdin.readLine()
+echo(usernm,"@zos:~", cmd)
